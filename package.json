@@ -1,0 +1,24 @@
+{
+  "name": "hexo-auto-canonical",
+  "version": "0.1.0",
+  "description": "A generator automatically make canonical tag for hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyunSeob/hexo-auto-canonical.git"
+  },
+  "keywords": [
+    "hexo",
+    "blog",
+    "seo"
+  ],
+  "author": "HyunSeob <sytte1017@gmail.com> (http://hyunseob.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HyunSeob/hexo-auto-canonical/issues"
+  },
+  "homepage": "https://github.com/HyunSeob/hexo-auto-canonical#readme"
+}

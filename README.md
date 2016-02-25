@@ -1,6 +1,6 @@
 # hexo-auto-canonical
-A generator automatically make canonical tag for hexo:
-You could use this module for your SEO of blog powered by hexo.i
+A generator automatically make canonical link for hexo.
+You could use this module for your SEO of blog powered by hexo.
 
 ## Installation
 ```

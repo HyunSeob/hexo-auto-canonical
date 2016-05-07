@@ -1,4 +1,6 @@
 # hexo-auto-canonical
+[![Downloads](https://img.shields.io/npm/dm/hexo-auto-canonical.svg)](https://www.npmjs.com/package/hexo-auto-canonical) [![npm](https://img.shields.io/npm/v/hexo-auto-canonical.svg)](https://www.npmjs.com/package/hexo-auto-canonical) [![LICENSE](https://img.shields.io/npm/l/hexo-auto-canonical.svg)](LICENSE)
+
 A generator automatically make canonical link for hexo.
 You could use this module for your SEO of blog powered by hexo.
 

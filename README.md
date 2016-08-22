@@ -18,7 +18,7 @@ with ejs,
 ```
 OR with jade,
 ``` jade
-!{ autoCanonical(config, page) }
+| !{ autoCanonical(config, page) }
 ```
 
 ## License

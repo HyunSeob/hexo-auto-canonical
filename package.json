@@ -1,6 +1,6 @@
 {
   "name": "hexo-auto-canonical",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A generator automatically make canonical tag for hexo.",
   "main": "index.js",
   "scripts": {
